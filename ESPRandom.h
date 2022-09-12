@@ -42,7 +42,7 @@ class ESPRandom {
 
   /**
    * Generate a UUID in the buffer provided
-   * 
+   *
    * To be compliant, the time has to be set
    *
    * \param buffer A 16 byte array where the UUID will be saved in
