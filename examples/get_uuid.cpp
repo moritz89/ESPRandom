@@ -1,9 +1,7 @@
 #include "Arduino.h"
 #include "ESPRandom.h"
 
-void setup() {
-  Serial.begin(115200);
-}
+void setup() { Serial.begin(115200); }
 
 void loop() {
   // Use an old-school array to create a v4 UUID
